@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da tecnologia com experiên
 
 ## Habilidades
 
-<p><img  src="https://skillicons.dev/icons?i=php,mysql,laravel,nodejs,javascript,html,css,bootstrap,tailwind,jquery,next,react,git.lua"/></p>
+<p><img  src="https://skillicons.dev/icons?i=php,mysql,laravel,nodejs,javascript,html,css,bootstrap,tailwind,jquery,next,react,git,lua"/></p>
 
 
 ## Estatísticas do GitHub
