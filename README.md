@@ -8,10 +8,3 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da tecnologia com experiên
 ## Habilidades
 
 <p><img  src="https://skillicons.dev/icons?i=php,mysql,laravel,nodejs,javascript,html,css,bootstrap,tailwind,jquery,next,react,git,lua"/></p>
-
-
-## Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brenosolutions&theme=transparent&bg_color=000&border_color=000&show_icons=true&icon_color=30A3DC&title_color=03A9F4&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brenosolutions&bg_color=000&border_color=000&title_color=03A9F4&text_color=FFF)
-
