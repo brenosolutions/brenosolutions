@@ -2,8 +2,8 @@
 
 Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da tecnologia com experiência em desenvolvimento full stack, especializado na criação de aplicativos web robustos e escaláveis, utilizando diversas tecnologias.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenocdev/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brenocdev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenocsdev/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brenocsdev/)
 
 ## Habilidades
 
